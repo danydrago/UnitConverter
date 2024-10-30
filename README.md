@@ -42,8 +42,6 @@ This is a simple and intuitive Android application that allows you to quickly co
 
 If you'd like to contribute to the project, feel free to open a **pull request** or **issue** to suggest new features, improvements, or report issues.
 
-## License
 
-This project is distributed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 
